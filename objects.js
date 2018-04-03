@@ -1,1 +1,1 @@
-var playlist = {fred hammond: "glory, to glory"}
+var playlist = {fredHammond: "glory, to glory"}
